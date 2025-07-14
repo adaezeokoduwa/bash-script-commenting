@@ -1,7 +1,7 @@
 # bash-script-commenting
 
 
-# Adding Comments in Bash Scripts â€” Practice Summary
+# Adding Comments in Bash Scripts Practice Summary
 
 ## Overview
 Comments in Bash scripts are notes written in the code that are **ignored by the Bash interpreter**. They are used to **explain what the code does**, making the script easier to understand, maintain, and debug â€” both for yourself and for others who might read the code later.
